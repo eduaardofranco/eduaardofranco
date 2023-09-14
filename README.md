@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for an opportunity
 - 👨🏼‍💻 I’m currently learning NodeJS with ReactJs and Styled Componentes
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduaardofranco&show_icons=true&theme=transparent)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduaardofranco&show_icons=true&theme=default)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduaardofranco&hide_progress=true)
